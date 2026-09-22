@@ -1,9 +1,8 @@
-# Pixel Life Web
+# Pixel Life Web — Archived
 
-Public GitHub Pages deployment for Pixel Life.
+The project has moved to one public source-and-deployment repository:
 
-- Game source: maintained separately in a private repository
-- Deployment artifact: standalone `index.html`
-- Live site: https://sidebatch.github.io/pixel-life-web/
+- Source and live site: https://github.com/sidebatch/pixel-life
+- Live game: https://sidebatch.github.io/pixel-life/
 
-This repository contains only the generated web build.
+This repository is retained as a migration marker and is no longer updated.
